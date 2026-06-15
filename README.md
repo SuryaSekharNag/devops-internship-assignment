@@ -113,7 +113,7 @@ A merge conflict occurs when two branches modify the same line of a file and Git
 
 
 
-###### Example Scenario:
+###### Example:
 
 
 
